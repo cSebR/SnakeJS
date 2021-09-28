@@ -1,1 +1,3 @@
 # SnakeJS
+
+Technologies : Javascript
